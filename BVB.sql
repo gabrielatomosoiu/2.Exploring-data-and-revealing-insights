@@ -14,12 +14,13 @@ GROUP BY Investment_Type;
 -- This helps understand the distribution of investments across different categories (equity, index, etc.).
 
 -----------------------------------------------------------------------------------------------------------------------------
---	Result:
-       
---	Investment_Type	       NumberOfInvestments
+--	Result:		
+       			
+--	Investment_Type	NumberOfInvestments	
+			
+--	Equity		103
+--	Index		2
 
---	Equity		       103
---	Index		       2
 -- --------------------------------------------------------------------------------------------------------------------------
 
 
