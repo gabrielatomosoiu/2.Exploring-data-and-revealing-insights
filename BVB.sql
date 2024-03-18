@@ -18,8 +18,8 @@ GROUP BY Investment_Type;
        
 --	Investment_Type		NumberOfInvestments
 
---	Equity				103
---	Index				2
+--	Equity		103
+--	Index		2
 -- --------------------------------------------------------------------------------------------------------------------------
 
 
