@@ -44,13 +44,13 @@ ORDER BY TotalTradedVolume DESC;
 --	AST		Arctic Stream SA			95,439
 --	ARO		Aro-Palace SA Brasov			93,841
 --	NRF		Norofert SA				903,182
---	MALI		Comalim Arad			       9,737
+--	MALI		Comalim Arad                     9,737
 --	BRNA		Romnav					9,431
 --	BRD		BRD-Groupe Societe Generale		9,375,471
 --	PREB		Prebet					867,529
 --	ARTE		Artego SA				8,414
---	SINA		Sinatex				       701
---	BRM		Bermas Suceava			       7,882
+--	SINA		Sinatex                            701
+--	BRM		Bermas Suceava                     7,882
 -- --------------------------------------------------------------------------------------------------------------------------
 
 
