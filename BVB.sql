@@ -81,8 +81,8 @@ ORDER BY Industry_Sector, Ticker, Year;
 --	CMP		Compa ( CMP )                                          	Consumer Discretionary	2023	0.4388
 --	EFO		Turism, Hoteluri, Restaurante Marea Neagra ( EFO )	Consumer Discretionary	2022	0.2030
 --	EFO		Turism, Hoteluri, Restaurante Marea Neagra ( EFO )	Consumer Discretionary	2023	0.2562
---	SFG		Sphera Franchise Group ( SFG )	                     Consumer Discretionary	2022	14.0000
---	SFG		Sphera Franchise Group ( SFG )	                     Consumer Discretionary	2023	15.6037
+--	SFG		Sphera Franchise Group ( SFG )	                       Consumer Discretionary	2022	14.0000
+--	SFG		Sphera Franchise Group ( SFG )	                       Consumer Discretionary	2023	15.6037
 
 --       ATB       	Antibiotice ( ATB )	                                   Consumer Staples	       2022	0.5660
 --       ATB       	Antibiotice ( ATB )	                                   Consumer Staples	       2023	0.5799
