@@ -222,6 +222,6 @@ GROUP BY Investment_Type, Currency;
 
 --	Investment_Type		AveragePriceChange	       Currency
 
---	Equity			0.0388                          RON
---	Index			10.9667                         RON
+--	Equity			0.0388                         RON
+--	Index			10.9667                        RON
 -- --------------------------------------------------------------------------------------------------------------------------
