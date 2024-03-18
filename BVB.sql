@@ -14,12 +14,12 @@ GROUP BY Investment_Type;
 -- This helps understand the distribution of investments across different categories (equity, index, etc.).
 
 -----------------------------------------------------------------------------------------------------------------------------
---       Result:
+--	Result:
        
---       Investment_Type	NumberOfInvestments
+--	Investment_Type	NumberOfInvestments
 
---       Equity	       103
---       Index	       2
+--	Equity			103
+--	Index			2
 -- --------------------------------------------------------------------------------------------------------------------------
 
 
@@ -37,20 +37,20 @@ ORDER BY TotalTradedVolume DESC;
 -- in the dataset. The FORMAT function ensures comma separators for readability of large numbers.
 
 -----------------------------------------------------------------------------------------------------------------------------
---       Result:
+--	Result:
        
---       Ticker	Investment_Name	TotalTradedVolume
+--	Ticker		Investment_Name			TotalTradedVolume
 
---       AST	Arctic Stream SA	95,439
---       ARO	Aro-Palace SA Brasov	93,841
---       NRF	Norofert SA	903,182
---       MALI	Comalim Arad	9,737
---       BRNA	Romnav	9,431
---       BRD	BRD-Groupe Societe Generale	9,375,471
---       PREB	Prebet	867,529
---       ARTE	Artego SA	8,414
---       SINA	Sinatex	701
---       BRM	Bermas Suceava	7,882
+--	AST		Arctic Stream SA			95,439
+--	ARO		Aro-Palace SA Brasov			93,841
+--	NRF		Norofert SA				903,182
+--	MALI		Comalim Arad				9,737
+--	BRNA		Romnav					9,431
+--	BRD		BRD-Groupe Societe Generale		9,375,471
+--	PREB		Prebet					867,529
+--	ARTE		Artego SA				8,414
+--	SINA		Sinatex				701
+--	BRM		Bermas Suceava			7,882
 -- --------------------------------------------------------------------------------------------------------------------------
 
 
@@ -218,10 +218,10 @@ GROUP BY Investment_Type, Currency;
 -- investment type and currency. This provides insights into overall investment performance across categories.
 
 -----------------------------------------------------------------------------------------------------------------------------
---       Result:
+--	Result:
 
---       Investment_Type	AveragePriceChange	Currency
+--	Investment_Type	AveragePriceChange	Currency
 
---       Equity       	0.0388              	RON
---       Index	       10.9667	       RON
+--	Equity			0.0388			RON
+--	Index			10.9667		RON
 -- --------------------------------------------------------------------------------------------------------------------------
