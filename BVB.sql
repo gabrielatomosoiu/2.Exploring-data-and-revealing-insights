@@ -84,8 +84,8 @@ ORDER BY Industry_Sector, Ticker, Year;
 --	SFG		Sphera Franchise Group ( SFG )	                        Consumer Discretionary	2022	14.0000
 --	SFG		Sphera Franchise Group ( SFG )	                        Consumer Discretionary	2023	15.6037
 
---	ATB		Antibiotice ( ATB )					Consumer Staples	       2022	0.5660
---	ATB		Antibiotice ( ATB )					Consumer Staples	       2023	0.5799
+--	ATB		Antibiotice ( ATB )					Consumer Staples	   2022	0.5660
+--	ATB		Antibiotice ( ATB )					Consumer Staples	   2023	0.5799
 --	BIO		Biofarm ( BIO )		                            Consumer Staples	       2022	0.6160
 --	BIO		Biofarm ( BIO )		                            Consumer Staples	       2023	0.6535
 --	BRM		Bermas ( BRM )		                            Consumer Staples	       2022	2.4000
