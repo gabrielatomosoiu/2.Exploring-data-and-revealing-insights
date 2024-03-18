@@ -41,7 +41,7 @@ ORDER BY TotalTradedVolume DESC;
        
 --	Ticker		Investment_Name				TotalTradedVolume
 
---     AST		Arctic Stream SA			95,439
+--	AST		Arctic Stream SA			95,439
 --	ARO		Aro-Palace SA Brasov			93,841
 --	NRF		Norofert SA				903,182
 --	MALI		Comalim Arad				9,737
