@@ -73,10 +73,10 @@ ORDER BY Industry_Sector, Ticker, Year;
 -----------------------------------------------------------------------------------------------------------------------------
 --       Result:
 
---	Ticker		Company_Name                                   Industry_Sector	       Year	AverageClosingPrice
+--	Ticker		Company_Name                                          Industry_Sector	       Year	AverageClosingPrice
 
---	DIGI		Digi Communications ( DIGI )	                     Communication Services	2022	31.5000
---	DIGI		Digi Communications ( DIGI )	                     Communication Services	2023	34.0276
+--	DIGI		Digi Communications ( DIGI )                            Communication Services	2022	31.5000
+--	DIGI		Digi Communications ( DIGI )                            Communication Services	2023	34.0276
 --	CMP		Compa ( CMP )	                                          Consumer Discretionary	2022	0.3920
 --	CMP		Compa ( CMP )                                          	Consumer Discretionary	2023	0.4388
 --	EFO		Turism, Hoteluri, Restaurante Marea Neagra ( EFO )	Consumer Discretionary	2022	0.2030
