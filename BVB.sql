@@ -16,7 +16,7 @@ GROUP BY Investment_Type;
 -----------------------------------------------------------------------------------------------------------------------------
 --	Result:
        
---	Investment_Type		|		NumberOfInvestments
+--	Investment_Type			|		NumberOfInvestments
 
 --	Equity				|		103
 --	Index				|		2
