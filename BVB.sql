@@ -9,7 +9,9 @@ GROUP BY Investment_Type
 
 -- 2) This query finds the top 10 most traded stocks (by total traded volume) in the data set.
 
-SELECT TOP 10 Ticker, Investment_Name, FORMAT(SUM(Traded_Volume), '0,00') AS TotalTradedVolume
+SELECT TOP 10 Ticker,
+	Investment_Name, 
+	FORMAT(SUM(Traded_Volume), '0,00') AS TotalTradedVolume
 FROM dbo.Market_price AS p
 JOIN dbo.Investments AS i ON p.Ticker = i.Investment_Code
 GROUP BY Ticker, Investment_Name
@@ -34,19 +36,16 @@ ORDER BY Industry_Sector, Ticker, Year
 
 WITH InvestmentPerformance AS (
   SELECT
-    i.Investment_Type,
-	i.Currency,
-    t.Ticker,
-    t.Price_Date,
-	t.Close_Price - (
+    i.Investment_Type, i.Currency,
+    t.Ticker, t.Price_Date, t.Close_Price - (
       SELECT TOP 1 p.Close_Price
-      FROM Market_Price as p
+      FROM Market_Price AS p
       WHERE p.Ticker = t.Ticker
       AND p.Price_Date < t.Price_Date
       ORDER BY Price_Date DESC
     ) AS Price_Change
-  FROM Investments as i
-  INNER JOIN Market_Price as t ON i.Investment_Code = t.Ticker
+  FROM Investments AS i
+  INNER JOIN Market_Price AS t ON i.Investment_Code = t.Ticker
 )
 SELECT 
   Investment_Type,
