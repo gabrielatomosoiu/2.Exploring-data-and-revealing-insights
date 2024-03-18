@@ -73,7 +73,7 @@ ORDER BY Industry_Sector, Ticker, Year;
 -----------------------------------------------------------------------------------------------------------------------------
 --       Result:
 
---	Ticker		Company_Name                                          Industry_Sector	       Year	AverageClosingPrice
+--	Ticker		Company_Name                                            Industry_Sector	       Year	AverageClosingPrice
 
 --	DIGI		Digi Communications ( DIGI )                            Communication Services	2022	31.5000
 --	DIGI		Digi Communications ( DIGI )                            Communication Services	2023	34.0276
