@@ -73,31 +73,69 @@ ORDER BY Industry_Sector, Ticker, Year;
 -----------------------------------------------------------------------------------------------------------------------------
 --       Result:															
 															
---	Ticker		Company_Name						Industry_Sector				Year			AverageClosingPrice
+--	Ticker		Company_Name						Industry_Sector			Year	AverageClosingPrice
 															
---	DIGI		Digi Communications ( DIGI )				Communication Services			2022			31.5
---	DIGI		Digi Communications ( DIGI )				Communication Services			2023			34.0276
---	CMP		Compa ( CMP )						Consumer Discretionary			2022			0.392
---	CMP		Compa ( CMP )						Consumer Discretionary			2023			0.4388
---	EFO		Turism, Hoteluri, Restaurante Marea Neagra ( EFO )	Consumer Discretionary			2022			0.203
---	EFO		Turism, Hoteluri, Restaurante Marea Neagra ( EFO )	Consumer Discretionary			2023			0.2562
---	SFG		Sphera Franchise Group ( SFG )				Consumer Discretionary			2022			14
---	SFG		Sphera Franchise Group ( SFG )				Consumer Discretionary			2023			15.6037
+--	DIGI		Digi Communications ( DIGI )				Communication Services		2022	31.5
+--	DIGI		Digi Communications ( DIGI )				Communication Services		2023	34.0276
+--	CMP		Compa ( CMP )						Consumer Discretionary		2022	0.392
+--	CMP		Compa ( CMP )						Consumer Discretionary		2023	0.4388
+--	EFO		Turism, Hoteluri, Restaurante Marea Neagra ( EFO )	Consumer Discretionary		2022	0.203
+--	EFO		Turism, Hoteluri, Restaurante Marea Neagra ( EFO )	Consumer Discretionary		2023	0.2562
+--	SFG		Sphera Franchise Group ( SFG )				Consumer Discretionary		2022	14
+--	SFG		Sphera Franchise Group ( SFG )				Consumer Discretionary		2023	15.6037
 
---	ATB		Antibiotice ( ATB )					Consumer Staples			2022			0.566
---	ATB		Antibiotice ( ATB )					Consumer Staples			2023			0.5799
---	BIO		Biofarm ( BIO )						Consumer Staples			2022			0.616
---	BIO		Biofarm ( BIO )						Consumer Staples			2023			0.6535
---	BRM		Bermas ( BRM )						Consumer Staples			2022			2.4
---	BRM		Bermas ( BRM )						Consumer Staples			2023			2.399
---	M		Med Life ( M )						Consumer Staples			2022			16.9
---	M		Med Life ( M )						Consumer Staples			2023			18.4758
---	RMAH		Farmaceutica Remedia Deva ( RMAH )			Consumer Staples			2022			0.59
---	RMAH		Farmaceutica Remedia Deva ( RMAH )			Consumer Staples			2023			0.6388
---	SOCP		SOCEP S.A. ( SOCP )					Consumer Staples			2022			0.79
---	SOCP		SOCEP S.A. ( SOCP )					Consumer Staples			2023			0.8715
---	WINE		Purcari Wineries Public Company Limited ( WINE )	Consumer Staples			2022			8.49
---	WINE		Purcari Wineries Public Company Limited ( WINE )	Consumer Staples			2023			9.1472
+--	ATB		Antibiotice ( ATB )					Consumer Staples		2022	0.566
+--	ATB		Antibiotice ( ATB )					Consumer Staples		2023	0.5799
+--	BIO		Biofarm ( BIO )						Consumer Staples		2022	0.616
+--	BIO		Biofarm ( BIO )						Consumer Staples		2023	0.6535
+--	BRM		Bermas ( BRM )						Consumer Staples		2022	2.4
+--	BRM		Bermas ( BRM )						Consumer Staples		2023	2.399
+--	M		Med Life ( M )						Consumer Staples		2022	16.9
+--	M		Med Life ( M )						Consumer Staples		2023	18.4758
+--	RMAH		Farmaceutica Remedia Deva ( RMAH )			Consumer Staples		2022	0.59
+--	RMAH		Farmaceutica Remedia Deva ( RMAH )			Consumer Staples		2023	0.6388
+--	SOCP		SOCEP S.A. ( SOCP )					Consumer Staples		2022	0.79
+--	SOCP		SOCEP S.A. ( SOCP )					Consumer Staples		2023	0.8715
+--	WINE		Purcari Wineries Public Company Limited ( WINE )	Consumer Staples		2022	8.49
+--	WINE		Purcari Wineries Public Company Limited ( WINE )	Consumer Staples		2023	9.1472
+
+--	COTE		Conpet Ploiesti ( COTE )				Energy				2022	67.8
+--	COTE		Conpet Ploiesti ( COTE )				Energy				2023	74.963
+--	OIL		Oil Terminal ( OIL )					Energy				2022	0.161
+--	OIL		Oil Terminal ( OIL )					Energy				2023	0.1427
+--	PTR		Rompetrol Well Services ( PTR )				Energy				2022	0.592
+--	PTR		Rompetrol Well Services ( PTR )				Energy				2023	0.5883
+--	SNG		Romgaz ( SNG )						Energy				2022	37.75
+--	SNG		Romgaz ( SNG )						Energy				2023	39.8822
+--	SNN		Nuclearelectrica ( SNN )				Energy				2022	42.8
+--	SNN		Nuclearelectrica ( SNN )				Energy				2023	44.8575
+--	SNP		OMV Petrom ( SNP )					Energy				2022	0.42
+--	SNP		OMV Petrom ( SNP )					Energy				2023	0.4712
+
+--	BRD		BRD - Groupe Societe Generale ( BRD )			Financials			2022	13			
+--	BRD		BRD - Groupe Societe Generale ( BRD )			Financials			2023	13.0559			
+--	BRK		Ssif Brk Financial Group ( BRK )			Financials			2022	0.1132			
+--	BRK		Ssif Brk Financial Group ( BRK )			Financials			2023	0.1258			
+--	BVB		SC Bursa de Valori Bucuresti ( BVB )			Financials			2022	35.3			
+--	BVB		SC Bursa de Valori Bucuresti ( BVB )			Financials			2023	42.4469			
+--	EVER		Evergent Investments ( EVER )				Financials			2022	1.37			
+--	EVER		Evergent Investments ( EVER )				Financials			2023	1.2994			
+--	FP		Fondul Proprietatea ( FP )				Financials			2022	2.04			
+--	FP		Fondul Proprietatea ( FP )				Financials			2023	2.0841			
+--	IMP		Impact Developer & Contractor ( IMP )			Financials			2022	0.36			
+--	IMP		Impact Developer & Contractor ( IMP )			Financials			2023	0.3627			
+--	ONE		One United Properties ( ONE )				Financials			2022	0.856			
+--	ONE		One United Properties ( ONE )				Financials			2023	0.8704			
+--	PBK		Patria Bank ( PBK )					Financials			2022	0.0784			
+--	PBK		Patria Bank ( PBK )					Financials			2023	0.0853			
+--	SIF4		SIF Muntenia ( SIF4 )					Financials			2022	1.2			
+--	SIF4		SIF Muntenia ( SIF4 )					Financials			2023	1.1912			
+--	SIF5		SIF Oltenia ( SIF5 )					Financials			2022	1.72			
+--	SIF5		SIF Oltenia ( SIF5 )					Financials			2023	1.7463			
+--	TLV		Banca Transilvania ( TLV )				Financials			2022	19.92			
+--	TLV		Banca Transilvania ( TLV )				Financials			2023	19.8935			
+--	TRANSI		Transilvania Investments Alliance ( TRANSI )		Financials			2022	0.276			
+--	TRANSI		Transilvania Investments Alliance ( TRANSI )		Financials			2023	0.2849			
 
 
 
