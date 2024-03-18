@@ -92,7 +92,7 @@ ORDER BY Industry_Sector, Ticker, Year;
 --	BRM       	Bermas ( BRM )	                                   Consumer Staples	       2023	2.3990
 --	M       	Med Life ( M )	                                   Consumer Staples	       2022	16.9000
 --	M       	Med Life ( M )	                                   Consumer Staples	       2023	18.4758
---	RMAH        Farmaceutica Remedia Deva ( RMAH )	                     Consumer Staples	       2022	0.5900
+--	RMAH          Farmaceutica Remedia Deva ( RMAH )	                     Consumer Staples	       2022	0.5900
 --	RMAH	       Farmaceutica Remedia Deva ( RMAH )	                     Consumer Staples	       2023	0.6388
 --	SOCP       	SOCEP S.A. ( SOCP )	                                   Consumer Staples	       2022	0.7900
 --	SOCP       	SOCEP S.A. ( SOCP )	                                   Consumer Staples	       2023	0.8715
