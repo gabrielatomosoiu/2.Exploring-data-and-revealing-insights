@@ -84,6 +84,22 @@ ORDER BY Industry_Sector, Ticker, Year;
 --	SFG		Sphera Franchise Group ( SFG )				Consumer Discretionary			2022			14
 --	SFG		Sphera Franchise Group ( SFG )				Consumer Discretionary			2023			15.6037
 
+--	ATB		Antibiotice ( ATB )					Consumer Staples			2022			0.566
+--	ATB		Antibiotice ( ATB )					Consumer Staples			2023			0.5799
+--	BIO		Biofarm ( BIO )						Consumer Staples			2022			0.616
+--	BIO		Biofarm ( BIO )						Consumer Staples			2023			0.6535
+--	BRM		Bermas ( BRM )						Consumer Staples			2022			2.4
+--	BRM		Bermas ( BRM )						Consumer Staples			2023			2.399
+--	M		Med Life ( M )						Consumer Staples			2022			16.9
+--	M		Med Life ( M )						Consumer Staples			2023			18.4758
+--	RMAH		Farmaceutica Remedia Deva ( RMAH )			Consumer Staples			2022			0.59
+--	RMAH		Farmaceutica Remedia Deva ( RMAH )			Consumer Staples			2023			0.6388
+--	SOCP		SOCEP S.A. ( SOCP )					Consumer Staples			2022			0.79
+--	SOCP		SOCEP S.A. ( SOCP )					Consumer Staples			2023			0.8715
+--	WINE		Purcari Wineries Public Company Limited ( WINE )	Consumer Staples			2022			8.49
+--	WINE		Purcari Wineries Public Company Limited ( WINE )	Consumer Staples			2023			9.1472
+
+
 
 -- --------------------------------------------------------------------------------------------------------------------------
 
