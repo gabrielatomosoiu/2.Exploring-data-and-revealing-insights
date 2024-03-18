@@ -137,8 +137,58 @@ ORDER BY Industry_Sector, Ticker, Year;
 --	TRANSI		Transilvania Investments Alliance ( TRANSI )		Financials			2022	0.276			
 --	TRANSI		Transilvania Investments Alliance ( TRANSI )		Financials			2023	0.2849			
 
+--	AAG		Aages ( AAG )						Industrials			2022	3.52			
+--	AAG		Aages ( AAG )						Industrials			2023	3.7513			
+--	AQ		Aquila Part Prod Com ( AQ )				Industrials			2022	0.552			
+--	AQ		Aquila Part Prod Com ( AQ )				Industrials			2023	0.6546			
+--	ARM		Armatura ( ARM )					Industrials			2023	0.0911			
+--	ARS		Aerostar ( ARS )					Industrials			2022	7.7			
+--	ARS		Aerostar ( ARS )					Industrials			2023	7.5911			
+--	CEON		Cemacon Cluj-Napoca ( CEON )				Industrials			2022	0.448			
+--	CEON		Cemacon Cluj-Napoca ( CEON )				Industrials			2023	0.4768			
+--	COMI		Condmag ( COMI )					Industrials			2022	0.006			
+--	COMI		Condmag ( COMI )					Industrials			2023	0.0057			
+--	ELMA		Electromagnetica Bucuresti ( ELMA )			Industrials			2022	0.146			
+--	ELMA		Electromagnetica Bucuresti ( ELMA )			Industrials			2023	0.1733			
+--	MCAB		Romcab Mures ( MCAB )					Industrials			2022	0.0974			
+--	MCAB		Romcab Mures ( MCAB )					Industrials			2023	0.1414			
+--	MECE		Mecanica Fina Bucuresti ( MECE )			Industrials			2022	31.2			
+--	MECE		Mecanica Fina Bucuresti ( MECE )			Industrials			2023	31.2645			
+--	PREB		Prebet Aiud ( PREB )					Industrials			2023	1.8921			
+--	ROCE		Romcarbon Buzau ( ROCE )				Industrials			2022	0.357			
+--	ROCE		Romcarbon Buzau ( ROCE )				Industrials			2023	0.4367			
+--	SNO		Santierul Naval Orsova ( SNO )				Industrials			2022	5			
+--	SNO		Santierul Naval Orsova ( SNO )				Industrials			2023	5.0425			
+--	TBM		Turbomecanica ( TBM )					Industrials			2022	0.1815			
+--	TBM		Turbomecanica ( TBM )					Industrials			2023	0.2147			
+--	TRP		Teraplast ( TRP )					Industrials			2022	0.55			
+--	TRP		Teraplast ( TRP )					Industrials			2023	0.5884			
+--	TTS		Transport Trade Services ( TTS )			Industrials			2022	11.46			
+--	TTS		Transport Trade Services ( TTS )			Industrials			2023	12.6078			
 
+--	BNET		Bittnet Systems Bucuresti ( BNET )			Information Technology		2022	0.2955			
+--	BNET		Bittnet Systems Bucuresti ( BNET )			Information Technology		2023	0.2954			
+--	SAFE		Safetech Innovations ( SAFE )				Information Technology		2022	2.8			
+--	SAFE		Safetech Innovations ( SAFE )				Information Technology		2023	3.0598		
 
+--	ALR		ALRO S.A. ( ALR )					Materials			2022	1.57			
+--	ALR		ALRO S.A. ( ALR )					Materials			2023	1.726			
+--	ALU		Alumil Rom Industry ( ALU )				Materials			2022	1.705			
+--	ALU		Alumil Rom Industry ( ALU )				Materials			2023	1.8762		
+
+--	ARTE		Artego Jiu ( ARTE )					Materials			2023	13.2714			
+--	CBC		Carbochim ( CBC )					Materials			2023	32.6667			
+--	CRC		Chimcomplex Borzesti Onesti ( CRC )			Materials			2022	23.7			
+--	CRC		Chimcomplex Borzesti Onesti ( CRC )			Materials			2023	21.5513	
+--	VNC		Vrancart ( VNC )					Materials			2022	0.153			
+--	VNC		Vrancart ( VNC )					Materials			2023	0.1673	
+
+--	EL		Societatea Energetica Electrica ( EL )			Utilities			2022	8.09			
+--	EL		Societatea Energetica Electrica ( EL )			Utilities			2023	8.7456			
+--	TEL		Transelectrica ( TEL )					Utilities			2022	21.7	
+--	TEL		Transelectrica ( TEL )					Utilities			2023	23.8383			
+--	TGN		Transgaz ( TGN )					Utilities			2022	275.5
+--	TGN		Transgaz ( TGN )					Utilities			2023	306.7222
 -- --------------------------------------------------------------------------------------------------------------------------
 
 
