@@ -219,10 +219,10 @@ GROUP BY Investment_Type, Currency;
 -- investment type and currency. This provides insights into overall investment performance across categories.
 
 -----------------------------------------------------------------------------------------------------------------------------
---	Result:
-
---	Investment_Type		AveragePriceChange	       Currency
-
---	Equity			0.0388                         RON
---	Index			10.9667                        RON
+--	Result:			
+				
+--	Investment_Type		AveragePriceChange	Currency
+				
+--	Equity			0.0388			RON
+--	Index			10.9667			RON
 -- --------------------------------------------------------------------------------------------------------------------------
