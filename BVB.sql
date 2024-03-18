@@ -50,7 +50,7 @@ ORDER BY TotalTradedVolume DESC;
 --	PREB		Prebet					867,529
 --	ARTE		Artego SA				8,414
 --	SINA		Sinatex				701
---	BRM		Bermas Suceava		       7,882
+--	BRM		Bermas Suceava			7,882
 -- --------------------------------------------------------------------------------------------------------------------------
 
 
